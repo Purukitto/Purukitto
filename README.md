@@ -8,8 +8,8 @@ Development and Graphic Design. Creating new and creative solutions to problems.
 
 ### How to reach me 📫
 - E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
-- LinkedIn: @purukitto(https://www.linkedin.com/in/purukitto/)
-- Twitter: @purukitto(https://twitter.com/purukitto)
+- LinkedIn: [@purukitto](https://www.linkedin.com/in/purukitto/)
+- Twitter: [@purukitto](https://twitter.com/purukitto)
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Karim-Adnane&label=PROFILE+VIEWS&style=flat&color=green)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Karim-Adnan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
