@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 welcome to my profile
 
-<!--
-**Purukitto/Purukitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd Year student pursuing B.Tech from SRM University, Chennai, Computer Science major with an interest in the fields of JavaScript
+Development and Graphic Design. Creating new and creative solutions to problems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Pokemon-API](https://github.com/Purukitto/pokemon-api)
+- 🌱 I’m currently learning Frontend Web Dev
+- 📫 How to reach me: Email me @ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me 📫
+- E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
+- LinkedIn: @purukitto(https://www.linkedin.com/in/purukitto/)
+- Twitter: @purukitto(https://twitter.com/purukitto)
+
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=Karim-Adnane&label=PROFILE+VIEWS&style=flat&color=green)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karim-Adnan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Purukitto&show_icons=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purukitto&layout=compact)
