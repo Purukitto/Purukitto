@@ -14,7 +14,7 @@ Development and Graphic Design. Creating new and creative solutions to problems.
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Karim-Adnane&label=PROFILE+VIEWS&style=flat&color=green)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Karim-Adnan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Purukitto&show_icons=true&count_private=true?&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purukitto&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Purukitto&show_icons=true&count_private=true?)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purukitto&layout=compact)
 
 #### :arrow_down: Scroll down to see my top repositories :arrow_down:
