@@ -4,7 +4,7 @@ I am a 3rd Year student pursuing B.Tech from SRM University, Chennai, Computer S
 Development and Graphic Design. Creating new and creative solutions to problems.
 
 - 🔭 I’m currently working on [Pokemon-API](https://github.com/Purukitto/pokemon-api)
-- 🌱 I’m currently learning Frontend Web Dev
+- 🌱 I’m currently learning Frontend Web Dev using Flutter
 
 ### How to reach me 📫
 - E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
