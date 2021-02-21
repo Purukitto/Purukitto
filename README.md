@@ -12,10 +12,6 @@ Development and Graphic Design. Creating new and creative solutions to problems.
 - Twitter: [@purukitto](https://twitter.com/purukitto)
 
 
-### Languages and Tools:
-
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"/></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg"/></code><code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-plain.svg"/></code>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purukitto&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Purukitto&show_icons=true&count_private=true?)
 
