@@ -3,8 +3,8 @@
 I am a 3rd Year student pursuing B.Tech from SRM University, Chennai, Computer Science major with an interest in the fields of JavaScript
 Development and Graphic Design. Creating new and creative solutions to problems.
 
-- 🔭 I’m currently working on [Pokemon-API](https://github.com/Purukitto/pokemon-api) and [pokemon-data.json](https://github.com/Purukitto/pokemon-data.json)
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working on [Pokemon-API](https://github.com/Purukitto/pokemon-api) and [CoinEZ](https://github.com/Purukitto/CoinEZ)
+- 🌱 I’m currently learning Blockchain
 
 ### How to reach me 📫
 - E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
