@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋 welcome to my profile</h1>
+<h1 align="center">Hi there 👋</h1>
 
-I am a 3rd Year student pursuing B.Tech from SRM University, Chennai, Computer Science major with an interest in the fields of JavaScript
+I am a 4th Year student pursuing B.Tech from SRM University, Chennai, Computer Science major with an interest in the fields of JavaScript
 Development and Graphic Design. Creating new and creative solutions to problems.
 
 - 🔭 I’m currently working on [CoinEZ](https://github.com/Purukitto/CoinEZ) and a custom Text Game engine.
