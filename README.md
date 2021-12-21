@@ -13,7 +13,7 @@ Development and Graphic Design. Creating new and creative solutions to problems.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purukitto&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Purukitto&show_icons=true&count_private=true?)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Purukitto&show_icons=true&count_private=true?) -->
 
 
   <p align="center">
