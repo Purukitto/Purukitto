@@ -4,7 +4,7 @@ I am a 4th Year student pursuing B.Tech from SRM University, Chennai, Computer S
 Development and Graphic Design. Creating new and creative solutions to problems.
 
 - 🔭 I’m currently working on [CoinEZ](https://github.com/Purukitto/CoinEZ) and a custom Text Game engine.
-- 🌱 I’m currently learning [Vue.js](https://vuejs.org/) and [Vuex](https://next.vuex.vuejs.org/)
+- 🌱 I’m currently learning [Vue.js](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/)
 
 ### How to reach me 📫
 - E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
