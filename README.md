@@ -3,8 +3,8 @@
 I am a 4th Year student pursuing B.Tech from SRM University, Chennai, Computer Science major with an interest in the fields of JavaScript
 Development and Graphic Design. Creating new and creative solutions to problems.
 
-- 🔭 I’m currently working on [CoinEZ](https://github.com/Purukitto/CoinEZ) and a custom Text Game engine.
-- 🌱 I’m currently learning [Vue.js](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/)
+- 🔭 I’m currently working on [CoinEZ](https://github.com/Purukitto/CoinEZ) and a Flutter App.
+- 🌱 I’m currently learning [Flutter](https://docs.flutter.dev/) and [Vue.js](https://vuejs.org/).
 
 ### How to reach me 📫
 - E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
