@@ -1,16 +1,13 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am a 4th Year student pursuing B.Tech from SRM University, Chennai, Computer Science major with an interest in the fields of JavaScript
-Development and Graphic Design. Creating new and creative solutions to problems.
+I am a Fresh SDE working at [Brillio](https://www.brillio.com/). Creating new and creative solutions to problems.
 
-- 🔭 I’m currently working on [CoinEZ](https://github.com/Purukitto/CoinEZ) and a Flutter App.
-- 🌱 I’m currently learning [Flutter](https://docs.flutter.dev/) and [Vue.js](https://vuejs.org/).
+- 🔭 I’m currently working on a React Native sideproject.
+- 🌱 I’m currently learning [React Native](https://reactnative.dev/).
 
 ### How to reach me 📫
 - E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
 - LinkedIn: [@purukitto](https://www.linkedin.com/in/purukitto/)
-- Twitter: [@purukitto](https://twitter.com/purukitto)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purukitto&layout=compact)
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Purukitto&show_icons=true&count_private=true?) -->
