@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am a Fresh SDE working at [Brillio](https://www.brillio.com/). Creating new and creative solutions to problems.
+I am a fresher SDE working at [Brillio](https://www.brillio.com/). Creating new and creative solutions to problems.
 
 - 🔭 I’m currently working on a React Native sideproject.
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/).
