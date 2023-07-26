@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am a fresher SDE working at [Brillio](https://www.brillio.com/). Creating new and creative solutions to problems.
+A SDE working at [Brillio](https://www.brillio.com/). Creating new and creative solutions to problems.
 
-- 🔭 I’m currently working on a React Native sideproject.
-- 🌱 I’m currently learning [React Native](https://reactnative.dev/).
+- 🔭 I’m currently working on a Godot game.
+- 🌱 I’m currently learning [Godot](https://godotengine.org/).
 
 ### How to reach me 📫
 - E-Mail: [purukitto@gmail.com](mailto:purukitto@gmail.com)
